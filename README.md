@@ -1,1 +1,1 @@
-# Calculator
+# Simple ATM machine
